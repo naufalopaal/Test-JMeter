@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1661495980524,1596,POST Auth,201,Created,Thread Group 1-1,text,true,,578,405,1,1,https://market-final-project.herokuapp.com/auth/register,1591,0,1242
+1661495982120,317,POST Auth Login,201,Created,Thread Group 1-1,text,true,,506,273,1,1,https://market-final-project.herokuapp.com/auth/login,317,0,0
+1661497425346,1114,POST Auth,201,Created,auth 1 user - 1 second 1-1,text,true,,580,407,1,1,https://market-final-project.herokuapp.com/auth/register,1114,0,775
+1661497426460,326,POST Auth Login,201,Created,auth 1 user - 1 second 1-1,text,true,,510,274,1,1,https://market-final-project.herokuapp.com/auth/login,326,0,0
+1661498065697,1046,POST Auth,201,Created,auth 1 user - 1 second 1-1,text,true,,572,399,1,1,https://market-final-project.herokuapp.com/auth/register,1046,0,731
+1661498066744,303,POST Auth Login,201,Created,auth 1 user - 1 second 1-1,text,true,,496,270,1,1,https://market-final-project.herokuapp.com/auth/login,303,0,0
